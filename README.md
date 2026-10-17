@@ -1,1 +1,1 @@
-# the_last_seat
+# This project is under development and will be published soon.
